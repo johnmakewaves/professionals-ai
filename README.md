@@ -1,2 +1,2 @@
 # professionals-ai
-A local project exported from createanything.com, containing AI workspace and web/mobile apps for professional use.
+An AI-powered workspace with web and mobile apps for professional productivity, integrations, and automation.
